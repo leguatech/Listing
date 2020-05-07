@@ -8,7 +8,9 @@
 	font-weight: 400;
 	font-family: 'Raleway', sans-serif;
 	font-family: 'Lobster Two', cursive;
-	font-family: 'Lobster', cursive
+	font-family: 'Lobster', cursive;
+	font-family: 'Baloo 2', cursive;
+
 }
 
 img {
@@ -498,7 +500,7 @@ label.lab4.thumb {
 	margin: 0 0 10px;
 	line-height: 40px;
 	color: #89a0ba;
-	font-family: 'Lobster Two', cursive
+	font-family: 'Baloo 2', cursive;
 }
 
 .description {

@@ -1,12 +1,12 @@
 :root {
     --RecommendProductTitle1: "The Ordinary1";
-    --RecommendProductPic1: url(https://cinlo.github.io/Listing//product_image/1/p_1.png);
+    --RecommendProductPic1: url(https://cinlo.github.io/Listing/product_image/1/p_1.png);
     --RecommendProductTitle2: "The Ordinary2";
-    --RecommendProductPic2: url(https://cinlo.github.io/Listing//product_image/2/p_1.png);
+    --RecommendProductPic2: url(https://cinlo.github.io/Listing/product_image/2/p_1.png);
     --RecommendProductTitle3: "The Ordinary3";
-    --RecommendProductPic3: url(https://cinlo.github.io/Listing//product_image/3/p_1.png);
+    --RecommendProductPic3: url(https://cinlo.github.io/Listing/product_image/3/p_1.png);
     --RecommendProductTitle4: "The Ordinary4";
-    --RecommendProductPic4: url(https://cinlo.github.io/Listing//product_image/4/p_1.png);
+    --RecommendProductPic4: url(https://cinlo.github.io/Listing/product_image/4/p_1.png);
 }
 
 * {
@@ -74,14 +74,14 @@ ul {
     width: 100%;
     float: left;
     height: auto;
-    background: url(https://cinlo.github.io/Listing/images/body-bg.png) repeat center center;
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/body-bg.png) repeat center center;
 }
 
 .header-content {
     width: 100%;
     float: left;
     height: auto;
-    background: url(https://cinlo.github.io/Listing/images/header-bg.jpg) no-repeat center bottom;
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/header-bg.jpg) no-repeat center bottom;
     padding: 15px 0 0;
     background-size: cover
 }
@@ -323,7 +323,7 @@ ul {
     left: -22px;
     top: -21px;
     content: '';
-    background: url(https://cinlo.github.io/Listing/images/slider-bg.png) no-repeat center center
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/slider-bg.png) no-repeat center center
 }
 
 .frame .big-img img {
@@ -361,7 +361,7 @@ ul {
     float: left;
     position: relative;
     overflow: hidden;
-    background: #fff url(https://cinlo.github.io/Listing/images/thumb_bg.png) no-repeat center center;
+    background: #fff url(https://cinlo.github.io/Listing/sbeauty/images/thumb_bg.png) no-repeat center center;
     cursor: pointer
 }
 
@@ -423,7 +423,7 @@ label.lab4.thumb {
     left: 20px;
     top: 18px;
     content: '';
-    background: url(https://cinlo.github.io/Listing/images/de_left1.png) no-repeat center top
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/de_left1.png) no-repeat center top
 }
 
 .desc-right::after {
@@ -433,7 +433,7 @@ label.lab4.thumb {
     right: 20px;
     top: 18px;
     content: '';
-    background: url(https://cinlo.github.io/Listing/images/de_right1.png) no-repeat center top
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/de_right1.png) no-repeat center top
 }
 
 .right-inner {
@@ -450,7 +450,7 @@ label.lab4.thumb {
     left: -25px;
     bottom: -18px;
     content: '';
-    background: url(https://cinlo.github.io/Listing/images/de_left2.png) no-repeat center top
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/de_left2.png) no-repeat center top
 }
 
 .right-inner::after {
@@ -460,7 +460,7 @@ label.lab4.thumb {
     right: -25px;
     bottom: -18px;
     content: '';
-    background: url(https://cinlo.github.io/Listing/images/de_right2.png) no-repeat center top
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/de_right2.png) no-repeat center top
 }
 
 .product-info {
@@ -558,7 +558,7 @@ label.lab4.thumb {
     position: relative;
     padding: 15px 0;
     margin-bottom: -41px;
-    background: url(https://cinlo.github.io/Listing/images/menu_bg.png) no-repeat center center
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/menu_bg.png) no-repeat center center
 }
 
 .header-outer::before {
@@ -566,7 +566,7 @@ label.lab4.thumb {
     left: -25px;
     position: absolute;
     content: '';
-    background: url(https://cinlo.github.io/Listing/images/menu_left_shape.png) no-repeat left center;
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/menu_left_shape.png) no-repeat left center;
     height: 100%;
     width: 25px
 }
@@ -576,7 +576,7 @@ label.lab4.thumb {
     right: -25px;
     position: absolute;
     content: '';
-    background: url(https://cinlo.github.io/Listing/images/menu_right_shape.png) no-repeat right center;
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/menu_right_shape.png) no-repeat right center;
     height: 100%;
     width: 25px
 }
@@ -618,7 +618,7 @@ label.lab4.thumb {
     padding: 0 0 14px 0;
     margin: 0 0 17px;
     position: relative;
-    background: url(https://cinlo.github.io/Listing/images/line.png) no-repeat center bottom
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/line.png) no-repeat center bottom
 }
 
 .list-full .list-block {
@@ -700,7 +700,7 @@ label.lab4.thumb {
     z-index: 99;
     text-align: center;
     padding: 160px 20px 120px;
-    background: url(https://cinlo.github.io/Listing/images/service-bg.png) no-repeat center bottom
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/service-bg.png) no-repeat center bottom
 }
 
 .service-inner .icon {
@@ -718,7 +718,7 @@ label.lab4.thumb {
     position: relative;
     padding: 60px 0 0;
     margin: 0 0 87px;
-    background: url(https://cinlo.github.io/Listing/images/tab-bg.jpg) no-repeat center center;
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/tab-bg.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -ms-background-size: cover;
     -moz-background-size: cover;
@@ -744,7 +744,7 @@ label.lab4.thumb {
     right: 75px;
     bottom: 0;
     height: 2px;
-    background: url(https://cinlo.github.io/Listing/images/line.png) no-repeat center center
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/line.png) no-repeat center center
 }
 
 .tab-inner {
@@ -762,7 +762,7 @@ label.lab4.thumb {
     left: 0;
     top: 35px;
     content: '';
-    background: url(https://cinlo.github.io/Listing/images/left1.png) no-repeat left top
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/left1.png) no-repeat left top
 }
 
 .tab-inner::after {
@@ -772,7 +772,7 @@ label.lab4.thumb {
     right: 0;
     top: 35px;
     content: '';
-    background: url(https://cinlo.github.io/Listing/images/right1.png) no-repeat left top
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/right1.png) no-repeat left top
 }
 
 .tab-block.tabs::before {
@@ -782,7 +782,7 @@ label.lab4.thumb {
     left: 0;
     bottom: 0;
     content: '';
-    background: url(https://cinlo.github.io/Listing/images/left2.png) no-repeat left top
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/left2.png) no-repeat left top
 }
 
 .tab-block.tabs::after {
@@ -792,7 +792,7 @@ label.lab4.thumb {
     right: 0;
     bottom: 0;
     content: '';
-    background: url(https://cinlo.github.io/Listing/images/right2.png) no-repeat left top
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/right2.png) no-repeat left top
 }
 
 .bottom_bg {
@@ -811,7 +811,7 @@ label.lab4.thumb {
     position: absolute;
     bottom: 15px;
     content: '';
-    background: url(https://cinlo.github.io/Listing/images/left-bottom.png) no-repeat left bottom
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/left-bottom.png) no-repeat left bottom
 }
 
 .bottom_bg::after {
@@ -821,7 +821,7 @@ label.lab4.thumb {
     position: absolute;
     bottom: 15px;
     content: '';
-    background: url(https://cinlo.github.io/Listing/images/left-right.png) no-repeat right bottom
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/left-right.png) no-repeat right bottom
 }
 
 .tab_outer {
@@ -842,7 +842,7 @@ label.lab4.thumb {
     position: absolute;
     top: 15px;
     content: '';
-    background: url(https://cinlo.github.io/Listing/images/left-top.png) no-repeat left top
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/left-top.png) no-repeat left top
 }
 
 .tab_outer::after {
@@ -852,7 +852,7 @@ label.lab4.thumb {
     position: absolute;
     top: 15px;
     content: '';
-    background: url(https://cinlo.github.io/Listing/images/top-right.png) no-repeat right top
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/top-right.png) no-repeat right top
 }
 
 .tab_content_wrapper {
@@ -866,7 +866,7 @@ label.lab4.thumb {
     left: 71px;
     right: 71px;
     position: absolute;
-    background: url(https://cinlo.github.io/Listing/images/top_img.png) repeat-x;
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/top_img.png) repeat-x;
     height: 61px
 }
 
@@ -874,7 +874,7 @@ label.lab4.thumb {
     left: 71px;
     right: 71px;
     position: absolute;
-    background: url(https://cinlo.github.io/Listing/images/bottom_img.png) repeat-x;
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/bottom_img.png) repeat-x;
     height: 31px;
     bottom: 0
 }
@@ -885,7 +885,7 @@ label.lab4.thumb {
     top: 30px;
     bottom: 71px;
     display: inline-block;
-    background: url(https://cinlo.github.io/Listing/images/left_img.png) repeat-y;
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/left_img.png) repeat-y;
     width: 26px
 }
 
@@ -895,7 +895,7 @@ label.lab4.thumb {
     top: 30px;
     bottom: 71px;
     display: inline-block;
-    background: url(https://cinlo.github.io/Listing/images/right_img.png) repeat-y;
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/right_img.png) repeat-y;
     width: 14px
 }
 
@@ -950,7 +950,7 @@ label.lab4.thumb {
     height: auto;
     text-align: center;
     margin: 0 auto 25px;
-    background: url(https://cinlo.github.io/Listing/images/tab-menu-bg.png) no-repeat center center;
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/tab-menu-bg.png) no-repeat center center;
     padding: 13px 0;
     position: relative
 }
@@ -960,7 +960,7 @@ label.lab4.thumb {
     left: -25px;
     position: absolute;
     content: '';
-    background: url(https://cinlo.github.io/Listing/images/tab_left_shape.png) no-repeat center center;
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/tab_left_shape.png) no-repeat center center;
     height: 100%;
     width: 25px
 }
@@ -970,7 +970,7 @@ label.lab4.thumb {
     right: -25px;
     position: absolute;
     content: '';
-    background: url(https://cinlo.github.io/Listing/images/tab_right_shape.png) no-repeat center center;
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/tab_right_shape.png) no-repeat center center;
     height: 100%;
     width: 25px
 }
@@ -1070,7 +1070,7 @@ video.responsive-video {
     display: block;
     float: left;
     padding: 0 0 0;
-    background: url(https://cinlo.github.io/Listing/images/footer-bg.jpg) no-repeat center center;
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/footer-bg.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -ms-background-size: cover;
     -moz-background-size: cover;
@@ -1102,7 +1102,7 @@ video.responsive-video {
     margin: 0;
     position: relative;
     padding: 12px 0;
-    background: url(https://cinlo.github.io/Listing/images/bg1.png) no-repeat center center
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/bg1.png) no-repeat center center
 }
 
 .footer_right::before {
@@ -1110,7 +1110,7 @@ video.responsive-video {
     left: -25px;
     position: absolute;
     content: '';
-    background: url(https://cinlo.github.io/Listing/images/bg_left_shape.png) no-repeat center center;
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/bg_left_shape.png) no-repeat center center;
     height: 100%;
     width: 25px
 }
@@ -1120,7 +1120,7 @@ video.responsive-video {
     right: -25px;
     position: absolute;
     content: '';
-    background: url(https://cinlo.github.io/Listing/images/bg_right_shape.png) no-repeat center center;
+    background: url(https://cinlo.github.io/Listing/sbeauty/images/bg_right_shape.png) no-repeat center center;
     height: 100%;
     width: 25px
 }
@@ -1443,7 +1443,7 @@ div.recommendproducttitle4::before {
     }
 
     .header-content {
-        background-image: url(https://cinlo.github.io/Listing/images/tab-bg.jpg)
+        background-image: url(https://cinlo.github.io/Listing/sbeauty/images/tab-bg.jpg)
     }
 
     .support-block li {
@@ -1538,7 +1538,7 @@ div.recommendproducttitle4::before {
     }
 
     .footer-top {
-        background-image: url(https://cinlo.github.io/Listing/images/tab-bg.jpg)
+        background-image: url(https://cinlo.github.io/Listing/sbeauty/images/tab-bg.jpg)
     }
 
     .copyright {

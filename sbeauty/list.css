@@ -850,6 +850,7 @@ label.lab4.thumb {
     position: absolute;
     background: url(images/top_img.png) repeat-x;
     height: 61px
+    top:13px;
 }
 
 .bottom_full_bg {

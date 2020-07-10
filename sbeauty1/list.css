@@ -510,7 +510,7 @@ label.lab4.thumb {
 }
 
 .description p {
-    font-size: 14px;
+    font-size: 20px;
     color: #b3b3b3;
     font-weight: 400;
     margin: 0 0 24px;
@@ -585,7 +585,7 @@ label.lab4.thumb {
 .list-block span {
     color: #89a0ba;
     font-weight: 400;
-    font-size: 13px;
+    font-size: 20px;
     font-family: 'Noto Serif', serif;
 }
 

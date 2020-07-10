@@ -493,11 +493,11 @@ label.lab4.thumb {
 }
 
 .product-info .title {
-    font-size: 34px;
+    font-size: 20px;
     font-weight: 400;
     margin: 0 0 10px;
     line-height: 40px;
-    color: #89a0ba;
+    color: rgb(128, 128, 128);
     font-family: 'Noto Serif', serif;
 }
 

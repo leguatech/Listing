@@ -810,10 +810,11 @@ label.lab4.thumb {
 	float: left;
 	height: auto;
 	position: relative;
-	background-color: #ffadad;
+	background-color: white;
+	/*#ffadad;*/
 	border: 2px solid #2e2e2e;
-	border-left: none;
-	border-right: none;
+	border-top: none;
+	border-bottom: none;
 	-webkit-background-size: cover;
 	-ms-background-size: cover;
 	-moz-background-size: cover;
@@ -842,7 +843,9 @@ label.lab4.thumb {
 .tabs .tab-selector-4:checked~.label-block .tab-label-4,
 .label-block label:hover {
 	color: #fff;
-	background: url(images/tab-menu-bg.png) no-repeat center center
+	background-color: #ffadad;
+	border: 2px solid #2e2e2e;
+	border-top: none;
 }
 
 .tabs .tab-selector-1:checked~.tab-content #menu1,
@@ -888,7 +891,10 @@ label.lab4.thumb {
 	margin: 0;
 	position: relative;
 	padding: 14px 40px 17px;
-	border-radius: 0 0 20px 20px
+	border-radius: 0 0 20px 20px;
+	background-color: #ddd;
+	border: 2px solid #2e2e2e;
+	border-top: none;
 }
 
 .label-block label:after,

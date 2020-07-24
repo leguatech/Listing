@@ -538,6 +538,7 @@ label.lab4.thumb {
 	margin: 0 0 40px
 }
 
+
 .description p {
 	font-size: 16px;
 	color: gray;
@@ -806,7 +807,10 @@ label.lab4.thumb {
 	float: left;
 	height: auto;
 	position: relative;
-	background: url(images/tab-bg.png) no-repeat center center;
+	background: border-box #ffadad;
+	border: 2px solid #2e2e2e;
+	border-left: none;
+	border-right: none;
 	-webkit-background-size: cover;
 	-ms-background-size: cover;
 	-moz-background-size: cover;
@@ -894,10 +898,10 @@ label.lab4.thumb {
 }
 
 .tab-content p {
-	color: #ccc;
+	color: black;
 	margin: 0 0 25px;
 	font-weight: 400;
-	font-size: 16px;
+	font-size: 20px;
 	text-align: left;
 	line-height: 24px;
 	font-family: 'Sora', sans-serif;
@@ -1303,11 +1307,11 @@ ul.quick-link.pull-right {
 		padding: 0
 	}
 	.price .sale-price {
-		font-size: 38px!important;
+		font-size: 25px!important;
 		line-height: 70px
 	}
 	.price .regular-price {
-		font-size: 20px!important
+		font-size: 25px!important
 	}
 	.frame::before {
 		height: 60px;
@@ -1389,7 +1393,7 @@ ul.quick-link.pull-right {
 
 @media only screen and (max-width:639px) {
 	.product-info .title {
-		font-size: 28px;
+		font-size: 25px;
 		line-height: 30px
 	}
 	.price {
@@ -1515,9 +1519,6 @@ ul.quick-link.pull-right {
 	}
 	.product-info {
 		padding: 0 0
-	}
-	.price .sale-price {
-		font-size: 50px
 	}
 	.price .regular-price {
 		font-size: 25px;
@@ -1875,12 +1876,7 @@ ul.quick-link.pull-right {
 	#navbar .pull-right {
 		width: auto
 	}
-	.price .sale-price {
-		font-size: 50px
-	}
-	.price .regular-price {
-		font-size: 26px
-	}
+
 	.price {
 		margin: 0 0 15px
 	}

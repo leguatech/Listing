@@ -1495,7 +1495,10 @@ ul.quick-link.pull-right {
 	}
 	.header-right {
 		width: 100%;
-		float: left
+		float: left;
+		border: 2px solid #2e2e2e;
+		border-left: none;
+		border-right: none;
 	}
 	.menu-container {
 		position: relative
@@ -1712,9 +1715,7 @@ ul.quick-link.pull-right {
 	.header-inner {
 		padding: 10px 15px
 	}
-	.logo-container img {
-		max-width: 150px
-	}
+
 	.service-outer {
 		display: inline-block;
 		float: none

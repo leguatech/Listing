@@ -1708,7 +1708,7 @@ ul.quick-link.pull-right {
 	.logo-container {
 		position: absolute;
 		left: 15px;
-		top: 8px;
+		top: 15px;
 		transform: unset;
 		z-index: 999
 	}

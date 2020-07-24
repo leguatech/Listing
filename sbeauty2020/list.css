@@ -1053,8 +1053,8 @@ video.responsive-video {
 	margin: 0;
 	position: relative;
 	padding: 17px 100px;
-	background: url(images/menu-bg.png) no-repeat center center
-}
+/*	background: url(images/menu-bg.png) no-repeat center center
+*/}
 
 .footer-logo {
 	width: auto;

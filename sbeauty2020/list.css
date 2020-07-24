@@ -270,10 +270,13 @@ ul {
 	display: inline-block;
 	background: #ffadad;
 	border-radius: 0 0 10px 10px;
-	position: relative
+	position: relative;
+	border: 2px solid #2e2e2e;
+	border-top: none;
+
 }
 
-.support-block ul li .item-inner::before {
+/*.support-block ul li .item-inner::before {
 	left: 17px;
 	right: 17px;
 	bottom: -12px;
@@ -283,7 +286,7 @@ ul {
 	border-top: none;
 	top: 0;
 	border-radius: 0 0 10px 10px
-}
+}*/
 
 .header-outer {
 	width: 100%;
@@ -807,7 +810,7 @@ label.lab4.thumb {
 	float: left;
 	height: auto;
 	position: relative;
-	background: border-box #ffadad;
+	background-color: #ffadad;
 	border: 2px solid #2e2e2e;
 	border-left: none;
 	border-right: none;
@@ -822,7 +825,7 @@ label.lab4.thumb {
 	position: relative;
 	max-width: 100%;
 	width: 100%;
-	float: right
+	float: right;
 }
 
 .tab-content p:last-child {
@@ -1241,7 +1244,7 @@ ul.quick-link.pull-right {
 	}
 	.support-block ul li {
 		padding: 0;
-		margin: 0 0 36px!important
+		margin: 0 0 5px!important
 	}
 	.support-block ul li:last-child {
 		margin: 0!important
@@ -1666,7 +1669,7 @@ ul.quick-link.pull-right {
 		width: 100%;
 		background-size: auto;
 		padding: 0;
-		margin: 0 0 25px
+		margin: 0 0 5px
 	}
 	.support-block ul li .item-inner {
 		width: 100%

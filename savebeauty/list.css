@@ -8,11 +8,7 @@
     line-height: 24px;
     color: #9d9d9d;
     font-weight: 400;
-    font-family: 'Raleway', sans-serif;
-    font-family: 'Lobster Two', cursive;
-    font-family: 'Lobster', cursive;
-    font-family: 'Baloo 2', cursive;
-
+    font-family: 'Playfair Display', serif;
 }
 
 img {
@@ -243,7 +239,7 @@ ul {
     text-align: center;
     font-size: 20px;
     color: #fff;
-    font-family: 'Lobster Two', cursive;
+    font-family: 'Playfair Display', serif;
     line-height: 24px
 }
 
@@ -479,7 +475,7 @@ label.lab4.thumb {
     display: inline-block;
     position: relative;
     z-index: 2;
-    font-family: 'Lobster Two', cursive
+    font-family: 'Playfair Display', serif;
 }
 
 .price .regular-price {
@@ -493,7 +489,7 @@ label.lab4.thumb {
     line-height: 60px;
     position: relative;
     z-index: 2;
-    font-family: 'Lobster Two', cursive
+    font-family: 'Playfair Display', serif;
 }
 
 .product-info .title {
@@ -502,7 +498,7 @@ label.lab4.thumb {
     margin: 0 0 10px;
     line-height: 40px;
     color: #89a0ba;
-    font-family: 'Baloo 2', cursive;
+    font-family: 'Playfair Display', serif;
 }
 
 .description {
@@ -518,7 +514,7 @@ label.lab4.thumb {
     color: #b3b3b3;
     font-weight: 400;
     margin: 0 0 24px;
-    font-family: 'Lato', sans-serif
+    font-family: 'Playfair Display', serif;
 }
 
 .description p:last-child {
@@ -590,7 +586,7 @@ label.lab4.thumb {
     color: #89a0ba;
     font-weight: 400;
     font-size: 13px;
-    font-family: 'Lato', sans-serif
+    font-family: 'Playfair Display', serif;
 }
 
 .list-full {
@@ -980,9 +976,9 @@ label.lab4.thumb {
     font-size: 15px;
     text-align: left;
     line-height: 26px;
-    font-family: 'Playfair Display', serif
+    font-family: 'Playfair Display', serif;
 }
-
+    
 .panel-left {
     width: 50%;
     float: left;
@@ -1032,7 +1028,7 @@ video.responsive-video {
     font-size: 20px;
     line-height: 27px;
     padding: 20px 0;
-    font-family: 'Lobster Two', cursive
+    font-family: 'Playfair Display', serif;
 }
 
 .footer-top {

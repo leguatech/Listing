@@ -1,4 +1,4 @@
-/*SaveBeauty*/
+/*taslimabeauty*/
 
 * {
     padding: 0;
@@ -59,14 +59,14 @@ ul {
     width: 100%;
     float: left;
     height: auto;
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/body-bg.png) repeat center center
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/body-bg.png) repeat center center
 }
 
 .header-content {
     width: 100%;
     float: left;
     height: auto;
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/header-bg.jpg) no-repeat center bottom;
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/header-bg.jpg) no-repeat center bottom;
     padding: 15px 0 0;
     background-size: cover
 }
@@ -307,7 +307,7 @@ ul {
     left: -22px;
     top: -21px;
     content: '';
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/slider-bg.png) no-repeat center center
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/slider-bg.png) no-repeat center center
 }
 
 .frame .big-img img {
@@ -345,7 +345,7 @@ ul {
     float: left;
     position: relative;
     overflow: hidden;
-    background: #fff url(https://leguatech.github.io/Listing/savebeauty/images/thumb_bg.png) no-repeat center center;
+    background: #fff url(https://leguatech.github.io/Listing/taslimabeauty/images/thumb_bg.png) no-repeat center center;
     cursor: pointer
 }
 
@@ -401,7 +401,7 @@ label.lab4.thumb {
     left: 20px;
     top: 18px;
     content: '';
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/de_left1.png) no-repeat center top
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/de_left1.png) no-repeat center top
 }
 
 .desc-right::after {
@@ -411,7 +411,7 @@ label.lab4.thumb {
     right: 20px;
     top: 18px;
     content: '';
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/de_right1.png) no-repeat center top
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/de_right1.png) no-repeat center top
 }
 
 .right-inner {
@@ -428,7 +428,7 @@ label.lab4.thumb {
     left: -25px;
     bottom: -18px;
     content: '';
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/de_left2.png) no-repeat center top
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/de_left2.png) no-repeat center top
 }
 
 .right-inner::after {
@@ -438,7 +438,7 @@ label.lab4.thumb {
     right: -25px;
     bottom: -18px;
     content: '';
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/de_right2.png) no-repeat center top
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/de_right2.png) no-repeat center top
 }
 
 .product-info {
@@ -536,7 +536,7 @@ label.lab4.thumb {
     position: relative;
     padding: 15px 0;
     margin-bottom: -41px;
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/menu_bg.png) no-repeat center center
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/menu_bg.png) no-repeat center center
 }
 
 .header-outer::before {
@@ -544,7 +544,7 @@ label.lab4.thumb {
     left: -25px;
     position: absolute;
     content: '';
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/menu_left_shape.png) no-repeat left center;
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/menu_left_shape.png) no-repeat left center;
     height: 100%;
     width: 25px
 }
@@ -554,7 +554,7 @@ label.lab4.thumb {
     right: -25px;
     position: absolute;
     content: '';
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/menu_right_shape.png) no-repeat right center;
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/menu_right_shape.png) no-repeat right center;
     height: 100%;
     width: 25px
 }
@@ -596,7 +596,7 @@ label.lab4.thumb {
     padding: 0 0 14px 0;
     margin: 0 0 17px;
     position: relative;
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/line.png) no-repeat center bottom
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/line.png) no-repeat center bottom
 }
 
 .list-full .list-block {
@@ -678,7 +678,7 @@ label.lab4.thumb {
     z-index: 99;
     text-align: center;
     padding: 160px 20px 120px;
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/service-bg.png) no-repeat center bottom
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/service-bg.png) no-repeat center bottom
 }
 
 .service-inner .icon {
@@ -722,7 +722,7 @@ label.lab4.thumb {
     right: 75px;
     bottom: 0;
     height: 2px;
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/line.png) no-repeat center center
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/line.png) no-repeat center center
 }
 
 .tab-inner {
@@ -740,7 +740,7 @@ label.lab4.thumb {
     left: 0;
     top: 35px;
     content: '';
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/left1.png) no-repeat left top
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/left1.png) no-repeat left top
 }
 
 .tab-inner::after {
@@ -750,7 +750,7 @@ label.lab4.thumb {
     right: 0;
     top: 35px;
     content: '';
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/right1.png) no-repeat left top
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/right1.png) no-repeat left top
 }
 
 .tab-block.tabs::before {
@@ -760,7 +760,7 @@ label.lab4.thumb {
     left: 0;
     bottom: 0;
     content: '';
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/left2.png) no-repeat left top
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/left2.png) no-repeat left top
 }
 
 .tab-block.tabs::after {
@@ -770,7 +770,7 @@ label.lab4.thumb {
     right: 0;
     bottom: 0;
     content: '';
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/right2.png) no-repeat left top
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/right2.png) no-repeat left top
 }
 
 .bottom_bg {
@@ -789,7 +789,7 @@ label.lab4.thumb {
     position: absolute;
     bottom: 15px;
     content: '';
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/left-bottom.png) no-repeat left bottom
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/left-bottom.png) no-repeat left bottom
 }
 
 .bottom_bg::after {
@@ -799,7 +799,7 @@ label.lab4.thumb {
     position: absolute;
     bottom: 15px;
     content: '';
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/left-right.png) no-repeat right bottom
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/left-right.png) no-repeat right bottom
 }
 
 .tab_outer {
@@ -820,7 +820,7 @@ label.lab4.thumb {
     position: absolute;
     top: 15px;
     content: '';
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/left-top.png) no-repeat left top
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/left-top.png) no-repeat left top
 }
 
 .tab_outer::after {
@@ -830,7 +830,7 @@ label.lab4.thumb {
     position: absolute;
     top: 15px;
     content: '';
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/top-right.png) no-repeat right top
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/top-right.png) no-repeat right top
 }
 
 .tab_content_wrapper {
@@ -844,7 +844,7 @@ label.lab4.thumb {
     left: 71px;
     right: 71px;
     position: absolute;
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/top_img.png) repeat-x;
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/top_img.png) repeat-x;
     height: 61px;
     top:13px;
 }
@@ -853,7 +853,7 @@ label.lab4.thumb {
     left: 71px;
     right: 71px;
     position: absolute;
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/bottom_img.png) repeat-x;
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/bottom_img.png) repeat-x;
     height: 31px;
     bottom: 0
 }
@@ -864,7 +864,7 @@ label.lab4.thumb {
     top: 30px;
     bottom: 71px;
     display: inline-block;
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/left_img.png) repeat-y;
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/left_img.png) repeat-y;
     width: 26px
 }
 
@@ -874,7 +874,7 @@ label.lab4.thumb {
     top: 30px;
     bottom: 71px;
     display: inline-block;
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/right_img.png) repeat-y;
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/right_img.png) repeat-y;
     width: 14px
 }
 
@@ -922,7 +922,7 @@ label.lab4.thumb {
     height: auto;
     text-align: center;
     margin: 0 auto 25px;
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/tab-menu-bg.png) no-repeat center center;
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/tab-menu-bg.png) no-repeat center center;
     padding: 13px 0;
     position: relative
 }
@@ -932,7 +932,7 @@ label.lab4.thumb {
     left: -25px;
     position: absolute;
     content: '';
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/tab_left_shape.png) no-repeat center center;
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/tab_left_shape.png) no-repeat center center;
     height: 100%;
     width: 25px
 }
@@ -942,7 +942,7 @@ label.lab4.thumb {
     right: -25px;
     position: absolute;
     content: '';
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/tab_right_shape.png) no-repeat center center;
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/tab_right_shape.png) no-repeat center center;
     height: 100%;
     width: 25px
 }
@@ -1070,7 +1070,7 @@ video.responsive-video {
     margin: 0;
     position: relative;
     padding: 12px 0;
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/bg1.png) no-repeat center center
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/bg1.png) no-repeat center center
 }
 
 .footer_right::before {
@@ -1078,7 +1078,7 @@ video.responsive-video {
     left: -25px;
     position: absolute;
     content: '';
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/bg_left_shape.png) no-repeat center center;
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/bg_left_shape.png) no-repeat center center;
     height: 100%;
     width: 25px
 }
@@ -1088,7 +1088,7 @@ video.responsive-video {
     right: -25px;
     position: absolute;
     content: '';
-    background: url(https://leguatech.github.io/Listing/savebeauty/images/bg_right_shape.png) no-repeat center center;
+    background: url(https://leguatech.github.io/Listing/taslimabeauty/images/bg_right_shape.png) no-repeat center center;
     height: 100%;
     width: 25px
 }
@@ -1342,7 +1342,7 @@ ul.quick-link.pull-right {
     }
 
     .header-content {
-        background-image: url(https://leguatech.github.io/Listing/savebeauty/images/tab-bg.jpg)
+        background-image: url(https://leguatech.github.io/Listing/taslimabeauty/images/tab-bg.jpg)
     }
 
     .support-block li {
@@ -1435,7 +1435,7 @@ ul.quick-link.pull-right {
     }
 
     .footer-top {
-        background-image: url(https://leguatech.github.io/Listing/savebeauty/images/tab-bg.jpg)
+        background-image: url(https://leguatech.github.io/Listing/taslimabeauty/images/tab-bg.jpg)
     }
 
     .copyright {

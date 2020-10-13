@@ -1199,18 +1199,18 @@ ul.quick-link.pull-right {
 
 @media only screen and (max-width:479px) {
     .product-slider {
-        width: 280px
+        width: 440px
     }
 
     .frame .big-img::before {
-        width: 280px;
+        width: 440px;
         background-size: 100% auto;
-        height: 195px
+        height: 303px
     }
 
     .frame .big-img {
-        height: 150px;
-        width: 240px
+        height: 262px;
+        width: 395px
     }
 
     .frame label.thumb {
